@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://xarvel.me/rootcode-test/static/css/main.9160199b.css",
+    "main.js": "https://xarvel.me/rootcode-test/static/js/main.b8465334.js",
+    "index.html": "https://xarvel.me/rootcode-test/index.html",
+    "main.9160199b.css.map": "https://xarvel.me/rootcode-test/static/css/main.9160199b.css.map",
+    "main.b8465334.js.map": "https://xarvel.me/rootcode-test/static/js/main.b8465334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9160199b.css",
+    "static/js/main.b8465334.js"
+  ]
+}
